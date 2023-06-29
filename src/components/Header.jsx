@@ -8,7 +8,7 @@ export default function Header() {
     <header>
       <Link to="/" className="logo">
         <GiGalaxy size={24} />
-        <div>IntegerStore</div>
+        <div>Azriel Servant Tier List</div>
       </Link>
       <nav>
         <NavLink to="/">
